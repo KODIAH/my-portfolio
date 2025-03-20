@@ -1,0 +1,129 @@
+
+
+# Kodia Julius - Portfolio
+
+![Portfolio Screenshot](/images/screenshot.png) <!-- Add a screenshot of your portfolio here -->
+
+Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a Software Engineering student and aspiring web developer. The portfolio is designed to be clean, responsive, and professional, with features like dark/light mode, smooth scrolling, and animations.
+
+---
+
+## Features
+
+- **Responsive Design**: The portfolio is fully responsive and works seamlessly on all devices (desktop, tablet, and mobile).
+- **Dark/Light Mode**: Toggle between dark and light themes for a personalized viewing experience.
+- **Smooth Scrolling**: Navigate through sections with smooth scrolling for a better user experience.
+- **Interactive Animations**: Sections fade in as you scroll down the page.
+- **Sticky Navigation Bar**: The header sticks to the top of the page when scrolling for easy navigation.
+- **Contact Form**: A functional contact form with validation (currently uses JavaScript alerts for demonstration purposes).
+- **Project Showcase**: Display my projects with descriptions and images.
+- **Skills Section**: Highlight my technical skills in a visually appealing way.
+
+---
+
+## Technologies Used
+
+- **HTML5**: For structuring the content of the portfolio.
+- **CSS3**: For styling the website, including animations and responsive design.
+- **JavaScript**: For interactive features like smooth scrolling, dark/light mode, and form validation.
+- **Font Awesome**: For icons used in the theme toggle button.
+- **Google Fonts**: For the Poppins font used throughout the website.
+
+---
+
+## Live Demo
+
+Check out the live demo of the portfolio here:  
+[Portfolio Live Demo](#) <!-- Add your live demo link here -->
+
+---
+
+## How to Run Locally
+
+Follow these steps to run the project on your local machine:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/KODIAH/portfolio.git
+   cd portfolio
+   ```
+
+2. **Open the Project**:
+   - Open the `index.html` file in your browser.
+
+3. **Explore the Code**:
+   - The main files are:
+     - `index.html`: The main HTML file.
+     - `styles.css`: The CSS file for styling.
+     - `script.js`: The JavaScript file for interactivity.
+
+4. **Customize**:
+   - Replace the placeholder images in the `/images` folder with your own.
+   - Update the content in `index.html` to reflect your personal information, skills, and projects.
+
+---
+
+## Folder Structure
+
+```
+portfolio/
+├── index.html          # Main HTML file
+├── styles.css          # CSS file for styling
+├── script.js           # JavaScript file for interactivity
+├── images/             # Folder for images (e.g., profile picture, project screenshots)
+│   ├── profile.png     # Profile picture
+│   └── screenshot.png  # Screenshot of the portfolio
+└── README.md           # This README file
+```
+
+---
+
+## Customization
+
+To customize this portfolio for your own use:
+
+1. **Update Personal Information**:
+   - Replace the name, email, phone number, and GitHub link in the `index.html` file.
+   - Update the "About Me" section with your own description.
+
+2. **Add Your Projects**:
+   - Replace the placeholder project images and descriptions in the `projects` section of `index.html`.
+
+3. **Change Colors and Fonts**:
+   - Modify the color scheme in `styles.css` to match your personal branding.
+   - Change the font in `styles.css` if desired.
+
+4. **Add More Sections**:
+   - You can add more sections (e.g., "Experience", "Education") by copying the structure of existing sections in `index.html`.
+
+---
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Here are some ways you can contribute:
+
+- Improve the design or responsiveness.
+- Add new features (e.g., a blog section, testimonials).
+- Fix bugs or optimize the code.
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
+
+---
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Email**: [juliuskodia2002@gmail.com](mailto:juliuskodia2002@gmail.com)
+- **GitHub**: [KODIAH](https://github.com/KODIAH)
+- **Phone**: +254705315725
+
+---
+
+Thank you for visiting my portfolio! 🚀
+
+--
